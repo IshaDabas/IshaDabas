@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👑, I'm Isha Dabas</h1>
+<h1 align="center">Hi, I'm Isha Dabas!</h1>
 <h3 align="center">A passionate Web developer and graphics designer from India</h3>
 
 - 🌱 I’m currently learning **Next.js, Node.js and TypeScript**
 
-- 💬 Ask me about **If you want to live peacefully don't ask me anything**
+- 💬 Ask me about **If you want to live peacefully don't ask me anything**, **JKJK!**
 
 - 📫 How to reach me **ishadabas@icloud.com**
 
