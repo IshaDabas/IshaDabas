@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ishadabas@icloud.com**
 
-- ⚡ Fun fact **Netflix binger; Sketching enthusiast; Love to grind my free time playing Minecraft and Valorant**
+- ⚡ Fun fact **Netflix binger; Sketching enthusiast; Love to grind in my free time playing Minecraft and Valorant**
 
 <p align="center"><img src="https://cdn.dribbble.com/users/1484881/screenshots/9392233/media/86d0140a89c0c1df68b05951f3bc17cd.gif" alt="aesthetic" /></p>
 
