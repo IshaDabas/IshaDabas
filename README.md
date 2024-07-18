@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isha Dabas!</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJs, React-Native, JavaScript**
+- 🌱 I’m currently learning **NodeJs, React-Native**
 
 - 💬 Ask me about **If you want to live peacefully don't ask me anything**, **JKJK!**
 
