@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJs, React-Native**
 
-- 📫 How to reach me **ishadabas@icloud.com**
+- 📫 How to reach me **ishadabas@icloud.com** , **ishadabas26001@gmail.com**
 
 - ⚡ Fun fact **Netflix binger; Sketching enthusiast; Love to grind in my free time playing Minecraft and Valorant**
 
