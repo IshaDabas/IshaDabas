@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NodeJs, React-Native**
 
-- 💬 Ask me about **If you want to live peacefully don't ask me anything**, **JKJK!**
-
 - 📫 How to reach me **ishadabas@icloud.com**
 
 - ⚡ Fun fact **Netflix binger; Sketching enthusiast; Love to grind in my free time playing Minecraft and Valorant**
