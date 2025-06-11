@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Isha Dabas!</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **NodeJs, React-Native**
+- 🌱 I’m currently learning **React-Native, SEO, Digital Marketing**
 
-- 📫 How to reach me **ishadabas@icloud.com** , **ishadabas26001@gmail.com**
+- 📫 How to reach me **ishadabas@icloud.com** or **ishadabas26001@gmail.com** (you will get a response here fast)
 
 - ⚡ Fun fact **Netflix binger; Sketching enthusiast; Love to grind in my free time playing Minecraft and Valorant**
 
